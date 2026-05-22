@@ -1,37 +1,60 @@
 {
   "system_status": "ACTIVE",
-  "last_updated": "2026-05-22 18:54 UTC",
+  "last_updated": "2026-05-22 19:05 UTC",
   "home_run_tickets": [
     {
-      "total_odds": "+4100",
-      "target_payout_multiplier": "41x",
+      "total_odds": "+1064",
+      "target_payout_multiplier": "11.6x",
       "legs": [
         {
-          "sport": "\ud83c\udfc0",
-          "trigger": "INJURY EXPLOIT",
-          "bet": "NYK Brunson OVER 6.5 Ast (DK)"
+          "sport": "\ud83c\udfc8",
+          "trigger": "HEAVY SGP CORE",
+          "bet": "NCAAF: Notre Dame Fighting Irish (FanDuel)"
         },
         {
           "sport": "\ud83c\udfc8",
-          "trigger": "SHARP STEAM",
-          "bet": "DET Lions -3.5 Alt Line (FD)"
+          "trigger": "HEAVY SGP CORE",
+          "bet": "NCAAF: Oregon Ducks (FanDuel)"
         },
         {
-          "sport": "\u26bd",
-          "trigger": "REVERSE LINE",
-          "bet": "Real Madrid ML (BetMGM)"
+          "sport": "\ud83c\udfc8",
+          "trigger": "HEAVY SGP CORE",
+          "bet": "NCAAF: Wisconsin Badgers (FanDuel)"
         }
       ]
     }
   ],
   "grind_tickets": [
     {
-      "game": "\ud83c\udfc0 Celtics vs. Heat (Blowout Script)",
-      "total_odds": "+280",
+      "game": "Iowa State Cyclones @ Iowa Hawkeyes",
+      "total_odds": "-610",
       "legs": [
-        "Celtics -4.5 Alternate Spread",
-        "Tatum 20+ Points",
-        "Opponent Star Player Under Points"
+        "NCAAF: Iowa Hawkeyes (FanDuel)",
+        "Volume Momentum Confirmed"
+      ]
+    },
+    {
+      "game": "Oregon Ducks @ Oklahoma State Cowboys",
+      "total_odds": "+590",
+      "legs": [
+        "NCAAF: Oklahoma State Cowboys (FanDuel)",
+        "Volume Momentum Confirmed"
+      ]
+    },
+    {
+      "game": "Clemson Tigers @ LSU Tigers",
+      "total_odds": "-490",
+      "legs": [
+        "NCAAF: LSU Tigers (FanDuel)",
+        "Volume Momentum Confirmed"
+      ]
+    },
+    {
+      "game": "Iowa State Cyclones @ Iowa Hawkeyes",
+      "total_odds": "+440",
+      "legs": [
+        "NCAAF: Iowa State Cyclones (FanDuel)",
+        "Volume Momentum Confirmed"
       ]
     }
   ]
