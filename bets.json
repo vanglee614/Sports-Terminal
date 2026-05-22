@@ -1,52 +1,25 @@
 {
   "system_status": "ACTIVE",
-  "last_updated": "2026-05-22 19:45 UTC",
+  "last_updated": "2026-05-22 19:56 UTC",
   "home_run_tickets": [
     {
-      "total_odds": "+957",
-      "target_payout_multiplier": "10.6x",
+      "total_odds": "N/A",
+      "target_payout_multiplier": "0x",
       "legs": [
         {
-          "sport": "\u26be",
-          "trigger": "MLB HOME RUN",
-          "bet": "Houston Astros @ Chicago Cubs: Houston Astros (FanDuel)"
-        },
-        {
-          "sport": "\u26be",
-          "trigger": "MLB HOME RUN",
-          "bet": "Houston Astros @ Chicago Cubs: Chicago Cubs (FanDuel)"
-        },
-        {
-          "sport": "\u26be",
-          "trigger": "MLB HOME RUN",
-          "bet": "Washington Nationals @ Atlanta Braves: Atlanta Braves (DraftKings)"
+          "sport": "\ud83d\udce1",
+          "trigger": "BOARD CLEAR",
+          "bet": "Scanning lines. Awaiting bookmaker player milestone releases."
         }
       ]
     }
   ],
   "grind_tickets": [
     {
-      "game": "Houston Astros @ Chicago Cubs",
-      "total_odds": "-1000",
+      "game": "Line Rotations Clear",
+      "total_odds": "Even",
       "legs": [
-        "MLB: Houston Astros (FanDuel)",
-        "Volume Momentum Filter Confirmed"
-      ]
-    },
-    {
-      "game": "Houston Astros @ Chicago Cubs",
-      "total_odds": "+560",
-      "legs": [
-        "MLB: Chicago Cubs (FanDuel)",
-        "Volume Momentum Filter Confirmed"
-      ]
-    },
-    {
-      "game": "Washington Nationals @ Atlanta Braves",
-      "total_odds": "-219",
-      "legs": [
-        "MLB: Atlanta Braves (DraftKings)",
-        "Volume Momentum Filter Confirmed"
+        "Awaiting next game board data..."
       ]
     }
   ]
