@@ -1,59 +1,59 @@
 {
   "system_status": "ACTIVE",
-  "last_updated": "2026-05-22 19:05 UTC",
+  "last_updated": "2026-05-22 19:32 UTC",
   "home_run_tickets": [
     {
-      "total_odds": "+1064",
-      "target_payout_multiplier": "11.6x",
+      "total_odds": "+1023",
+      "target_payout_multiplier": "11.2x",
       "legs": [
         {
           "sport": "\ud83c\udfc8",
-          "trigger": "HEAVY SGP CORE",
-          "bet": "NCAAF: Notre Dame Fighting Irish (FanDuel)"
+          "trigger": "HEAVY VALUE",
+          "bet": "AFL: Collingwood Magpies (DraftKings)"
         },
         {
           "sport": "\ud83c\udfc8",
-          "trigger": "HEAVY SGP CORE",
-          "bet": "NCAAF: Oregon Ducks (FanDuel)"
+          "trigger": "HEAVY VALUE",
+          "bet": "AFL: West Coast Eagles (DraftKings)"
         },
         {
           "sport": "\ud83c\udfc8",
-          "trigger": "HEAVY SGP CORE",
-          "bet": "NCAAF: Wisconsin Badgers (FanDuel)"
+          "trigger": "HEAVY VALUE",
+          "bet": "CFL: Montreal Alouettes (FanDuel)"
         }
       ]
     }
   ],
   "grind_tickets": [
     {
-      "game": "Iowa State Cyclones @ Iowa Hawkeyes",
-      "total_odds": "-610",
+      "game": "Ottawa Redblacks @ Montreal Alouettes",
+      "total_odds": "+315",
       "legs": [
-        "NCAAF: Iowa Hawkeyes (FanDuel)",
+        "CFL: Ottawa Redblacks (FanDuel)",
         "Volume Momentum Confirmed"
       ]
     },
     {
-      "game": "Oregon Ducks @ Oklahoma State Cowboys",
-      "total_odds": "+590",
+      "game": "Winnipeg Blue Bombers @ Saskatchewan Roughriders",
+      "total_odds": "-260",
       "legs": [
-        "NCAAF: Oklahoma State Cowboys (FanDuel)",
+        "CFL: Saskatchewan Roughriders (FanDuel)",
         "Volume Momentum Confirmed"
       ]
     },
     {
-      "game": "Clemson Tigers @ LSU Tigers",
-      "total_odds": "-490",
+      "game": "Carlton Blues @ Port Adelaide Power",
+      "total_odds": "-225",
       "legs": [
-        "NCAAF: LSU Tigers (FanDuel)",
+        "AFL: Port Adelaide Power (DraftKings)",
         "Volume Momentum Confirmed"
       ]
     },
     {
-      "game": "Iowa State Cyclones @ Iowa Hawkeyes",
-      "total_odds": "+440",
+      "game": "Kiwoom Heroes @ LG Twins",
+      "total_odds": "-215",
       "legs": [
-        "NCAAF: Iowa State Cyclones (FanDuel)",
+        "KBO: LG Twins (FanDuel)",
         "Volume Momentum Confirmed"
       ]
     }
