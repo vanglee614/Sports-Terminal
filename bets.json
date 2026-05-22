@@ -1,60 +1,52 @@
 {
   "system_status": "ACTIVE",
-  "last_updated": "2026-05-22 19:32 UTC",
+  "last_updated": "2026-05-22 19:45 UTC",
   "home_run_tickets": [
     {
-      "total_odds": "+1023",
-      "target_payout_multiplier": "11.2x",
+      "total_odds": "+957",
+      "target_payout_multiplier": "10.6x",
       "legs": [
         {
-          "sport": "\ud83c\udfc8",
-          "trigger": "HEAVY VALUE",
-          "bet": "AFL: Collingwood Magpies (DraftKings)"
+          "sport": "\u26be",
+          "trigger": "MLB HOME RUN",
+          "bet": "Houston Astros @ Chicago Cubs: Houston Astros (FanDuel)"
         },
         {
-          "sport": "\ud83c\udfc8",
-          "trigger": "HEAVY VALUE",
-          "bet": "AFL: West Coast Eagles (DraftKings)"
+          "sport": "\u26be",
+          "trigger": "MLB HOME RUN",
+          "bet": "Houston Astros @ Chicago Cubs: Chicago Cubs (FanDuel)"
         },
         {
-          "sport": "\ud83c\udfc8",
-          "trigger": "HEAVY VALUE",
-          "bet": "CFL: Montreal Alouettes (FanDuel)"
+          "sport": "\u26be",
+          "trigger": "MLB HOME RUN",
+          "bet": "Washington Nationals @ Atlanta Braves: Atlanta Braves (DraftKings)"
         }
       ]
     }
   ],
   "grind_tickets": [
     {
-      "game": "Ottawa Redblacks @ Montreal Alouettes",
-      "total_odds": "+315",
+      "game": "Houston Astros @ Chicago Cubs",
+      "total_odds": "-1000",
       "legs": [
-        "CFL: Ottawa Redblacks (FanDuel)",
-        "Volume Momentum Confirmed"
+        "MLB: Houston Astros (FanDuel)",
+        "Volume Momentum Filter Confirmed"
       ]
     },
     {
-      "game": "Winnipeg Blue Bombers @ Saskatchewan Roughriders",
-      "total_odds": "-260",
+      "game": "Houston Astros @ Chicago Cubs",
+      "total_odds": "+560",
       "legs": [
-        "CFL: Saskatchewan Roughriders (FanDuel)",
-        "Volume Momentum Confirmed"
+        "MLB: Chicago Cubs (FanDuel)",
+        "Volume Momentum Filter Confirmed"
       ]
     },
     {
-      "game": "Carlton Blues @ Port Adelaide Power",
-      "total_odds": "-225",
+      "game": "Washington Nationals @ Atlanta Braves",
+      "total_odds": "-219",
       "legs": [
-        "AFL: Port Adelaide Power (DraftKings)",
-        "Volume Momentum Confirmed"
-      ]
-    },
-    {
-      "game": "Kiwoom Heroes @ LG Twins",
-      "total_odds": "-215",
-      "legs": [
-        "KBO: LG Twins (FanDuel)",
-        "Volume Momentum Confirmed"
+        "MLB: Atlanta Braves (DraftKings)",
+        "Volume Momentum Filter Confirmed"
       ]
     }
   ]
