@@ -1,0 +1,38 @@
+{
+  "system_status": "ACTIVE",
+  "last_updated": "2026-05-22 18:54 UTC",
+  "home_run_tickets": [
+    {
+      "total_odds": "+4100",
+      "target_payout_multiplier": "41x",
+      "legs": [
+        {
+          "sport": "\ud83c\udfc0",
+          "trigger": "INJURY EXPLOIT",
+          "bet": "NYK Brunson OVER 6.5 Ast (DK)"
+        },
+        {
+          "sport": "\ud83c\udfc8",
+          "trigger": "SHARP STEAM",
+          "bet": "DET Lions -3.5 Alt Line (FD)"
+        },
+        {
+          "sport": "\u26bd",
+          "trigger": "REVERSE LINE",
+          "bet": "Real Madrid ML (BetMGM)"
+        }
+      ]
+    }
+  ],
+  "grind_tickets": [
+    {
+      "game": "\ud83c\udfc0 Celtics vs. Heat (Blowout Script)",
+      "total_odds": "+280",
+      "legs": [
+        "Celtics -4.5 Alternate Spread",
+        "Tatum 20+ Points",
+        "Opponent Star Player Under Points"
+      ]
+    }
+  ]
+}
