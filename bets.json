@@ -1,6 +1,6 @@
 {
   "system_status": "ACTIVE",
-  "last_updated": "2026-05-22 20:12 UTC",
+  "last_updated": "2026-05-22 20:28 UTC",
   "home_run_tickets": [
     {
       "total_odds": "N/A",
@@ -8,18 +8,18 @@
       "legs": [
         {
           "sport": "\ud83d\udce1",
-          "trigger": "LINE SCANNING",
-          "bet": "Data pipe running. Waiting for bookmakers to publish active daily slates."
+          "trigger": "STANDBY",
+          "bet": "Data link secure. Waiting for sportsbooks to issue lines."
         }
       ]
     }
   ],
   "grind_tickets": [
     {
-      "game": "Daily Board Cleared",
+      "game": "Board Rotations Resetting",
       "total_odds": "Even",
       "legs": [
-        "Awaiting next game board line rotations..."
+        "Awaiting active morning line updates..."
       ]
     }
   ]
