@@ -1,26 +1,5 @@
 {
-  "system_status": "ACTIVE",
-  "last_updated": "2026-05-23 14:50 UTC",
-  "home_run_tickets": [
-    {
-      "total_odds": "N/A",
-      "target_payout_multiplier": "0x",
-      "legs": [
-        {
-          "sport": "\ud83d\udce1",
-          "trigger": "STANDBY",
-          "bet": "Data pipe running. Waiting for bookmakers to publish active lines."
-        }
-      ]
-    }
-  ],
-  "grind_tickets": [
-    {
-      "game": "Board Cleared",
-      "total_odds": "Even",
-      "legs": [
-        "Awaiting next daily game schedule loop..."
-      ]
-    }
-  ]
+  "NBA": [],
+  "MLB": [],
+  "NHL": []
 }
