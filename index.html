@@ -1,0 +1,9 @@
+<script>
+  fetch('bets.json')
+    .then(r => r.json())
+    .then(d => {
+      console.log("Raw Data:", d); // Look at this in your browser console
+      document.getElementById('content').innerHTML = `<pre>${JSON.stringify(d, null, 2)}</pre>`;
+    })
+    .catch(err => document.getElementById('content').innerText = "Error loading JSON: " + err);
+</script>
