@@ -7,11 +7,11 @@
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-07-14T12:02:58Z",
+          "last_update": "2026-07-14T22:46:01Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-14T12:02:58Z",
+              "last_update": "2026-07-14T22:46:01Z",
               "outcomes": [
                 {
                   "name": "American League",
@@ -19,23 +19,23 @@
                 },
                 {
                   "name": "National League",
-                  "price": -136
+                  "price": -134
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-14T12:02:58Z",
+              "last_update": "2026-07-14T22:46:01Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -102,
-                  "point": 8.0
+                  "price": -104,
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -120,
-                  "point": 8.0
+                  "price": -118,
+                  "point": 8.5
                 }
               ]
             }
@@ -44,35 +44,35 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-07-14T12:03:18Z",
+          "last_update": "2026-07-14T22:46:02Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-14T12:03:18Z",
+              "last_update": "2026-07-14T22:46:02Z",
               "outcomes": [
                 {
                   "name": "American League",
-                  "price": 116
+                  "price": 117
                 },
                 {
                   "name": "National League",
-                  "price": -128
+                  "price": -129
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-14T12:03:18Z",
+              "last_update": "2026-07-14T22:46:02Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -120,
-                  "point": 8.0
+                  "price": -102,
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": 100,
-                  "point": 8.0
+                  "price": -118,
+                  "point": 8.5
                 }
               ]
             }
@@ -81,99 +81,25 @@
         {
           "key": "betus",
           "title": "BetUS",
-          "last_update": "2026-07-14T12:02:39Z",
+          "last_update": "2026-07-14T22:45:44Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-14T12:02:39Z",
+              "last_update": "2026-07-14T22:45:44Z",
               "outcomes": [
                 {
                   "name": "American League",
-                  "price": 121
+                  "price": 118
                 },
                 {
                   "name": "National League",
-                  "price": -133
+                  "price": -129
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-14T12:02:39Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -120,
-                  "point": 8.0
-                },
-                {
-                  "name": "Under",
-                  "price": 100,
-                  "point": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "lowvig",
-          "title": "LowVig.ag",
-          "last_update": "2026-07-14T12:02:57Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-07-14T12:02:57Z",
-              "outcomes": [
-                {
-                  "name": "American League",
-                  "price": 116
-                },
-                {
-                  "name": "National League",
-                  "price": -128
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-07-14T12:02:57Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -118,
-                  "point": 8.0
-                },
-                {
-                  "name": "Under",
-                  "price": 103,
-                  "point": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betmgm",
-          "title": "BetMGM",
-          "last_update": "2026-07-14T12:03:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-07-14T12:03:17Z",
-              "outcomes": [
-                {
-                  "name": "American League",
-                  "price": 110
-                },
-                {
-                  "name": "National League",
-                  "price": -135
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-07-14T12:03:17Z",
+              "last_update": "2026-07-14T22:45:44Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -183,6 +109,80 @@
                 {
                   "name": "Under",
                   "price": -120,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-07-14T22:46:03Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-07-14T22:46:03Z",
+              "outcomes": [
+                {
+                  "name": "American League",
+                  "price": 117
+                },
+                {
+                  "name": "National League",
+                  "price": -129
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-07-14T22:46:03Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 101,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -116,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-07-14T22:45:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-07-14T22:45:43Z",
+              "outcomes": [
+                {
+                  "name": "American League",
+                  "price": 115
+                },
+                {
+                  "name": "National League",
+                  "price": -135
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-07-14T22:45:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
                   "point": 8.5
                 }
               ]
