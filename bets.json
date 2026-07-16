@@ -2,188 +2,40 @@
   "NBA": [],
   "MLB": [
     {
-      "match": "New York Mets @ Philadelphia Phillies",
+      "match": "Tampa Bay Rays @ Boston Red Sox",
       "lines": [
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-07-16T12:12:03Z",
+          "last_update": "2026-07-16T22:47:40Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-16T12:12:03Z",
+              "last_update": "2026-07-16T22:47:40Z",
               "outcomes": [
                 {
-                  "name": "New York Mets",
-                  "price": 108
+                  "name": "Boston Red Sox",
+                  "price": -116
                 },
                 {
-                  "name": "Philadelphia Phillies",
-                  "price": -126
+                  "name": "Tampa Bay Rays",
+                  "price": -102
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-16T12:12:03Z",
+              "last_update": "2026-07-16T22:47:40Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -118,
-                  "point": 9.5
-                },
-                {
-                  "name": "Under",
-                  "price": -104,
-                  "point": 9.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betonlineag",
-          "title": "BetOnline.ag",
-          "last_update": "2026-07-16T12:11:27Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-07-16T12:11:27Z",
-              "outcomes": [
-                {
-                  "name": "New York Mets",
-                  "price": 114
-                },
-                {
-                  "name": "Philadelphia Phillies",
-                  "price": -126
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-07-16T12:11:27Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -108,
-                  "point": 9.5
-                },
-                {
-                  "name": "Under",
                   "price": -112,
-                  "point": 9.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "lowvig",
-          "title": "LowVig.ag",
-          "last_update": "2026-07-16T12:12:06Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-07-16T12:12:06Z",
-              "outcomes": [
-                {
-                  "name": "New York Mets",
-                  "price": 114
-                },
-                {
-                  "name": "Philadelphia Phillies",
-                  "price": -126
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-07-16T12:12:06Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -105,
-                  "point": 9.5
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -109,
-                  "point": 9.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betus",
-          "title": "BetUS",
-          "last_update": "2026-07-16T12:11:28Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-07-16T12:11:28Z",
-              "outcomes": [
-                {
-                  "name": "New York Mets",
-                  "price": 116
-                },
-                {
-                  "name": "Philadelphia Phillies",
-                  "price": -127
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-07-16T12:11:28Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -110,
-                  "point": 9.5
-                },
-                {
-                  "name": "Under",
-                  "price": -110,
-                  "point": 9.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betmgm",
-          "title": "BetMGM",
-          "last_update": "2026-07-16T12:11:27Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-07-16T12:11:27Z",
-              "outcomes": [
-                {
-                  "name": "New York Mets",
-                  "price": 110
-                },
-                {
-                  "name": "Philadelphia Phillies",
-                  "price": -135
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-07-16T12:11:27Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -110,
-                  "point": 9.5
-                },
-                {
-                  "name": "Under",
-                  "price": -110,
-                  "point": 9.5
+                  "price": -108,
+                  "point": 8.5
                 }
               ]
             }
@@ -192,35 +44,35 @@
         {
           "key": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-07-16T12:12:15Z",
+          "last_update": "2026-07-16T22:46:11Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-16T12:12:15Z",
+              "last_update": "2026-07-16T22:46:11Z",
               "outcomes": [
                 {
-                  "name": "New York Mets",
-                  "price": 113
+                  "name": "Boston Red Sox",
+                  "price": -120
                 },
                 {
-                  "name": "Philadelphia Phillies",
-                  "price": -132
+                  "name": "Tampa Bay Rays",
+                  "price": 102
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-16T12:12:15Z",
+              "last_update": "2026-07-16T22:46:11Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -110,
-                  "point": 9.5
+                  "price": -107,
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -111,
-                  "point": 9.5
+                  "price": -114,
+                  "point": 8.5
                 }
               ]
             }
@@ -229,35 +81,109 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-07-16T12:10:44Z",
+          "last_update": "2026-07-16T22:47:03Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-16T12:10:44Z",
+              "last_update": "2026-07-16T22:47:03Z",
               "outcomes": [
                 {
-                  "name": "New York Mets",
-                  "price": 115
+                  "name": "Boston Red Sox",
+                  "price": -117
                 },
                 {
-                  "name": "Philadelphia Phillies",
-                  "price": -138
+                  "name": "Tampa Bay Rays",
+                  "price": -103
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-16T12:10:44Z",
+              "last_update": "2026-07-16T22:47:03Z",
               "outcomes": [
                 {
                   "name": "Over",
                   "price": -110,
-                  "point": 9.5
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
                   "price": -110,
-                  "point": 9.5
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-07-16T22:47:40Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-07-16T22:47:40Z",
+              "outcomes": [
+                {
+                  "name": "Boston Red Sox",
+                  "price": -121
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 110
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-07-16T22:47:40Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 112,
+                  "point": 9.0
+                },
+                {
+                  "name": "Under",
+                  "price": -128,
+                  "point": 9.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-07-16T22:47:50Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-07-16T22:47:50Z",
+              "outcomes": [
+                {
+                  "name": "Boston Red Sox",
+                  "price": -121
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 110
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-07-16T22:47:50Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 110,
+                  "point": 9.0
+                },
+                {
+                  "name": "Under",
+                  "price": -130,
+                  "point": 9.0
                 }
               ]
             }
@@ -266,35 +192,35 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-07-16T12:12:03Z",
+          "last_update": "2026-07-16T22:47:40Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-16T12:12:03Z",
+              "last_update": "2026-07-16T22:47:40Z",
               "outcomes": [
                 {
-                  "name": "New York Mets",
-                  "price": 112
+                  "name": "Boston Red Sox",
+                  "price": -122
                 },
                 {
-                  "name": "Philadelphia Phillies",
-                  "price": -135
+                  "name": "Tampa Bay Rays",
+                  "price": 101
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-16T12:12:03Z",
+              "last_update": "2026-07-16T22:47:40Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -111,
-                  "point": 9.5
+                  "price": -110,
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -109,
-                  "point": 9.5
+                  "price": -110,
+                  "point": 8.5
                 }
               ]
             }
@@ -303,35 +229,109 @@
         {
           "key": "betrivers",
           "title": "BetRivers",
-          "last_update": "2026-07-16T12:11:29Z",
+          "last_update": "2026-07-16T22:47:39Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-07-16T12:11:29Z",
+              "last_update": "2026-07-16T22:47:39Z",
               "outcomes": [
                 {
-                  "name": "New York Mets",
-                  "price": 108
+                  "name": "Boston Red Sox",
+                  "price": -117
                 },
                 {
-                  "name": "Philadelphia Phillies",
-                  "price": -127
+                  "name": "Tampa Bay Rays",
+                  "price": -103
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-07-16T12:11:29Z",
+              "last_update": "2026-07-16T22:47:39Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -112,
-                  "point": 9.5
+                  "price": -110,
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -107,
-                  "point": 9.5
+                  "price": -113,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-07-16T22:47:12Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-07-16T22:47:12Z",
+              "outcomes": [
+                {
+                  "name": "Boston Red Sox",
+                  "price": -125
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 105
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-07-16T22:47:12Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-07-16T22:47:50Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-07-16T22:47:50Z",
+              "outcomes": [
+                {
+                  "name": "Boston Red Sox",
+                  "price": -121
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 110
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-07-16T22:47:50Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 110,
+                  "point": 9.0
+                },
+                {
+                  "name": "Under",
+                  "price": -130,
+                  "point": 9.0
                 }
               ]
             }
