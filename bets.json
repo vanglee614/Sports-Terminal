@@ -7,11 +7,11 @@
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-09-20T23:40:41Z",
+          "last_update": "2026-09-21T16:38:57Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:40:41Z",
+              "last_update": "2026-09-21T16:38:57Z",
               "outcomes": [
                 {
                   "name": "Baltimore Orioles",
@@ -25,16 +25,53 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:40:41Z",
+              "last_update": "2026-09-21T16:38:57Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -112,
+                  "price": -105,
                   "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -108,
+                  "price": -115,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-09-21T16:37:28Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:37:28Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -112
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": -105
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:37:28Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -106,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
                   "point": 7.5
                 }
               ]
@@ -44,34 +81,34 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-09-20T23:41:01Z",
+          "last_update": "2026-09-21T16:37:31Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:41:01Z",
+              "last_update": "2026-09-21T16:37:31Z",
               "outcomes": [
                 {
                   "name": "Baltimore Orioles",
-                  "price": -114
+                  "price": -111
                 },
                 {
                   "name": "Toronto Blue Jays",
-                  "price": -106
+                  "price": -109
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:41:01Z",
+              "last_update": "2026-09-21T16:37:31Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -110,
+                  "price": -105,
                   "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -110,
+                  "price": -115,
                   "point": 7.5
                 }
               ]
@@ -81,35 +118,35 @@
         {
           "key": "lowvig",
           "title": "LowVig.ag",
-          "last_update": "2026-09-20T23:41:18Z",
+          "last_update": "2026-09-21T16:38:34Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:41:18Z",
+              "last_update": "2026-09-21T16:38:34Z",
               "outcomes": [
                 {
                   "name": "Baltimore Orioles",
-                  "price": -105
+                  "price": -107
                 },
                 {
                   "name": "Toronto Blue Jays",
-                  "price": -105
+                  "price": -103
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:41:18Z",
+              "last_update": "2026-09-21T16:38:34Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 103,
-                  "point": 8.0
+                  "price": -104,
+                  "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -118,
-                  "point": 8.0
+                  "price": -110,
+                  "point": 7.5
                 }
               ]
             }
@@ -118,35 +155,35 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-09-20T23:40:40Z",
+          "last_update": "2026-09-21T16:38:32Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:40:40Z",
+              "last_update": "2026-09-21T16:38:32Z",
               "outcomes": [
                 {
                   "name": "Baltimore Orioles",
-                  "price": -105
+                  "price": -107
                 },
                 {
                   "name": "Toronto Blue Jays",
-                  "price": -105
+                  "price": -103
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:40:40Z",
+              "last_update": "2026-09-21T16:38:32Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 100,
-                  "point": 8.0
+                  "price": -107,
+                  "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -120,
-                  "point": 8.0
+                  "price": -113,
+                  "point": 7.5
                 }
               ]
             }
@@ -155,11 +192,11 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-09-20T23:40:58Z",
+          "last_update": "2026-09-21T16:38:57Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:40:58Z",
+              "last_update": "2026-09-21T16:38:57Z",
               "outcomes": [
                 {
                   "name": "Baltimore Orioles",
@@ -173,16 +210,16 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:40:58Z",
+              "last_update": "2026-09-21T16:38:57Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -115,
+                  "price": -106,
                   "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -105,
+                  "price": -114,
                   "point": 7.5
                 }
               ]
@@ -192,42 +229,1329 @@
         {
           "key": "betus",
           "title": "BetUS",
-          "last_update": "2026-09-20T23:40:40Z",
+          "last_update": "2026-09-21T16:38:34Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:40:40Z",
+              "last_update": "2026-09-21T16:38:34Z",
               "outcomes": [
                 {
                   "name": "Baltimore Orioles",
-                  "price": -105
+                  "price": -107
                 },
                 {
                   "name": "Toronto Blue Jays",
-                  "price": -105
+                  "price": -103
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:40:40Z",
+              "last_update": "2026-09-21T16:38:34Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 100,
-                  "point": 8.0
+                  "price": -105,
+                  "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -120,
-                  "point": 8.0
+                  "price": -115,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-09-21T16:38:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:33Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -110
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": -108
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:33Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -108,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -113,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-09-21T16:38:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -110
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": -110
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 7.5
                 }
               ]
             }
           ]
         }
       ],
-      "props": []
+      "props": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "markets": [
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:39:03Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Trey Yesavage",
+                  "price": 134,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Trey Yesavage",
+                  "price": -172,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Shane Baz",
+                  "price": -146,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Shane Baz",
+                  "price": 114,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:38:48Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Shane Baz",
+                  "price": -152,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Shane Baz",
+                  "price": 109,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Trey Yesavage",
+                  "price": 121,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Trey Yesavage",
+                  "price": -168,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "markets": [
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:38:28Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Shane Baz",
+                  "price": -150,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Shane Baz",
+                  "price": 115,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Trey Yesavage",
+                  "price": 130,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Trey Yesavage",
+                  "price": -170,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:39:32Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "George Springer",
+                  "price": -213,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "George Springer",
+                  "price": 160,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gunnar Henderson",
+                  "price": -182,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Gunnar Henderson",
+                  "price": 138,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Alejandro Kirk",
+                  "price": -238,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Alejandro Kirk",
+                  "price": 178,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ernie Clement",
+                  "price": -196,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Ernie Clement",
+                  "price": 150,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Nathan Lukes",
+                  "price": -208,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Nathan Lukes",
+                  "price": 158,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Coby Mayo",
+                  "price": -152,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Coby Mayo",
+                  "price": 116,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Colton Cowser",
+                  "price": 110,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Colton Cowser",
+                  "price": -143,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jeremiah Jackson",
+                  "price": -125,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jeremiah Jackson",
+                  "price": -103,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Pete Alonso",
+                  "price": -185,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Pete Alonso",
+                  "price": 142,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Beavers",
+                  "price": -147,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dylan Beavers",
+                  "price": 113,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kazuma Okamoto",
+                  "price": -159,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Kazuma Okamoto",
+                  "price": 122,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Samuel Basallo",
+                  "price": -145,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Samuel Basallo",
+                  "price": 111,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Leody Taveras",
+                  "price": -115,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Leody Taveras",
+                  "price": -112,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Andres Gimenez",
+                  "price": -161,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Andres Gimenez",
+                  "price": 123,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Josh Smith",
+                  "price": -128,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Josh Smith",
+                  "price": -101,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": -164,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": 126,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brett Bateman",
+                  "price": -233,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Brett Bateman",
+                  "price": 174,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": -227,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": 171,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:39:32Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Shane Baz",
+                  "price": -147,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Shane Baz",
+                  "price": 114,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Trey Yesavage",
+                  "price": 128,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Trey Yesavage",
+                  "price": -167,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:39:20Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Alejandro Kirk",
+                  "price": -248,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Alejandro Kirk",
+                  "price": 183,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brett Bateman",
+                  "price": -242,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Brett Bateman",
+                  "price": 179,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": -228,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": 169,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "George Springer",
+                  "price": -221,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "George Springer",
+                  "price": 164,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ernie Clement",
+                  "price": -207,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Ernie Clement",
+                  "price": 154,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Nathan Lukes",
+                  "price": -197,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Nathan Lukes",
+                  "price": 147,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Pete Alonso",
+                  "price": -187,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Pete Alonso",
+                  "price": 140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gunnar Henderson",
+                  "price": -180,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Gunnar Henderson",
+                  "price": 135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Andres Gimenez",
+                  "price": -164,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Andres Gimenez",
+                  "price": 124,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": -160,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": 120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kazuma Okamoto",
+                  "price": -157,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Kazuma Okamoto",
+                  "price": 118,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Coby Mayo",
+                  "price": -153,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Coby Mayo",
+                  "price": 115,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Samuel Basallo",
+                  "price": -143,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Samuel Basallo",
+                  "price": 108,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Beavers",
+                  "price": -135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dylan Beavers",
+                  "price": 102,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jeremiah Jackson",
+                  "price": -129,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jeremiah Jackson",
+                  "price": -103,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Josh Smith",
+                  "price": -120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Josh Smith",
+                  "price": -110,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Leody Taveras",
+                  "price": -119,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Leody Taveras",
+                  "price": -111,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Colton Cowser",
+                  "price": 107,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Colton Cowser",
+                  "price": -142,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:39:20Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Shane Baz",
+                  "price": -152,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Shane Baz",
+                  "price": 119,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:39:06Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Alejandro Kirk",
+                  "price": -245,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Nathan Lukes",
+                  "price": -210,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": -250,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Coby Mayo",
+                  "price": -162,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Josh Smith",
+                  "price": -120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Samuel Basallo",
+                  "price": -141,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brett Bateman",
+                  "price": -265,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jeremiah Jackson",
+                  "price": -129,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": -175,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "George Springer",
+                  "price": -250,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kazuma Okamoto",
+                  "price": -175,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gunnar Henderson",
+                  "price": -210,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Beavers",
+                  "price": -148,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Pete Alonso",
+                  "price": -200,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Colton Cowser",
+                  "price": -104,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ernie Clement",
+                  "price": -195,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Leody Taveras",
+                  "price": -120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Andres Gimenez",
+                  "price": -165,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "batter_home_runs",
+              "last_update": "2026-09-21T16:39:06Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": 5500,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": 8000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Leody Taveras",
+                  "price": 25000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Beavers",
+                  "price": 6600,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ernie Clement",
+                  "price": 30000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jeremiah Jackson",
+                  "price": 20000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "George Springer",
+                  "price": 9000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Pete Alonso",
+                  "price": 4000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Josh Smith",
+                  "price": 18000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Alejandro Kirk",
+                  "price": 16000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Colton Cowser",
+                  "price": 15000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Coby Mayo",
+                  "price": 5000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kazuma Okamoto",
+                  "price": 5000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Samuel Basallo",
+                  "price": 5000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Nathan Lukes",
+                  "price": 22500,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gunnar Henderson",
+                  "price": 5500,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Andres Gimenez",
+                  "price": 20000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brett Bateman",
+                  "price": 25000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": 480,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Samuel Basallo",
+                  "price": 475,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kazuma Okamoto",
+                  "price": 475,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Pete Alonso",
+                  "price": 400,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Beavers",
+                  "price": 550,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jeremiah Jackson",
+                  "price": 1000,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Colton Cowser",
+                  "price": 800,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gunnar Henderson",
+                  "price": 480,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Andres Gimenez",
+                  "price": 1050,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Leody Taveras",
+                  "price": 950,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Alejandro Kirk",
+                  "price": 850,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ernie Clement",
+                  "price": 1200,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Coby Mayo",
+                  "price": 460,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Josh Smith",
+                  "price": 900,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Nathan Lukes",
+                  "price": 1050,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "George Springer",
+                  "price": 650,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brett Bateman",
+                  "price": 1050,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": 575,
+                  "point": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:38:48Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Brett Bateman",
+                  "price": -225,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Brett Bateman",
+                  "price": 165,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ernie Clement",
+                  "price": -190,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Ernie Clement",
+                  "price": 140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Andres Gimenez",
+                  "price": -155,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Andres Gimenez",
+                  "price": 115,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gunnar Henderson",
+                  "price": -190,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Gunnar Henderson",
+                  "price": 140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Samuel Basallo",
+                  "price": -140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Samuel Basallo",
+                  "price": 105,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": -160,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Christian Encarnacion-Strand",
+                  "price": 120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Nathan Lukes",
+                  "price": -220,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Nathan Lukes",
+                  "price": 165,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Alejandro Kirk",
+                  "price": -225,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Alejandro Kirk",
+                  "price": 165,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Pete Alonso",
+                  "price": -185,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Pete Alonso",
+                  "price": 135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "George Springer",
+                  "price": -210,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "George Springer",
+                  "price": 155,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Leody Taveras",
+                  "price": -110,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Leody Taveras",
+                  "price": -120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Colton Cowser",
+                  "price": 100,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Colton Cowser",
+                  "price": -135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kazuma Okamoto",
+                  "price": -160,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Kazuma Okamoto",
+                  "price": 120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Coby Mayo",
+                  "price": -150,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Coby Mayo",
+                  "price": 110,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Beavers",
+                  "price": -160,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dylan Beavers",
+                  "price": 120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jeremiah Jackson",
+                  "price": -130,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jeremiah Jackson",
+                  "price": -105,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": -250,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Vladimir Guerrero Jr.",
+                  "price": 180,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Josh Smith",
+                  "price": -150,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Josh Smith",
+                  "price": 110,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:38:48Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Trey Yesavage",
+                  "price": 125,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Trey Yesavage",
+                  "price": -165,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Shane Baz",
+                  "price": -160,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Shane Baz",
+                  "price": 120,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "match": "Washington Nationals @ Detroit Tigers",
@@ -235,25 +1559,1553 @@
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-09-20T23:40:41Z",
+          "last_update": "2026-09-21T16:38:57Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:40:41Z",
+              "last_update": "2026-09-21T16:38:57Z",
               "outcomes": [
                 {
                   "name": "Detroit Tigers",
-                  "price": -156
+                  "price": -134
                 },
                 {
                   "name": "Washington Nationals",
-                  "price": 132
+                  "price": 114
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:40:41Z",
+              "last_update": "2026-09-21T16:38:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -104,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -118,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-09-21T16:37:31Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:37:31Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -136
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 114
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:37:31Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 100,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -120,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-09-21T16:38:34Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:34Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -128
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 116
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:34Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -118,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": 103,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-09-21T16:38:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -128
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 116
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -120,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": 100,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-09-21T16:38:57Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:57Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -135
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 112
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -118,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": -102,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-09-21T16:38:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:33Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -141
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 118
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:33Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -108,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -113,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-09-21T16:38:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -135
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 110
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 100,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -120,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-09-21T16:37:28Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:37:28Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -135
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 115
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:37:28Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -104,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -118,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-09-21T16:38:34Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:34Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -128
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 117
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:34Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -120,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": 100,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "markets": [
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:39:22Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "DJ Herz",
+                  "price": -130,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "DJ Herz",
+                  "price": 102,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "River Ryan",
+                  "price": -111,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "description": "River Ryan",
+                  "price": -115,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "markets": [
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:37:47Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "DJ Herz",
+                  "price": -130,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "DJ Herz",
+                  "price": 100,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "River Ryan",
+                  "price": -115,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "description": "River Ryan",
+                  "price": -115,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:38:23Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Dillon Dingler",
+                  "price": -196,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dillon Dingler",
+                  "price": 148,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "CJ Abrams",
+                  "price": -204,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "CJ Abrams",
+                  "price": 155,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Riley Greene",
+                  "price": -192,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Riley Greene",
+                  "price": 145,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "James Wood",
+                  "price": -208,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "James Wood",
+                  "price": 159,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Keibert Ruiz",
+                  "price": -156,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Keibert Ruiz",
+                  "price": 120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jacob Young",
+                  "price": -125,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jacob Young",
+                  "price": -103,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Spencer Torkelson",
+                  "price": -133,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Spencer Torkelson",
+                  "price": 103,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jorbit Vivas",
+                  "price": -152,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jorbit Vivas",
+                  "price": 117,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Daylen Lile",
+                  "price": -233,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Daylen Lile",
+                  "price": 173,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brady House",
+                  "price": -169,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Brady House",
+                  "price": 129,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Hao-Yu Lee",
+                  "price": -156,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Hao-Yu Lee",
+                  "price": 120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gleyber Torres",
+                  "price": -196,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Gleyber Torres",
+                  "price": 148,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Abimelec Ortiz",
+                  "price": -152,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Abimelec Ortiz",
+                  "price": 117,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Crews",
+                  "price": -182,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dylan Crews",
+                  "price": 139,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ben Malgeri",
+                  "price": -130,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Ben Malgeri",
+                  "price": 100,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kevin McGonigle",
+                  "price": -204,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Kevin McGonigle",
+                  "price": 154,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "John Peck",
+                  "price": -114,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "John Peck",
+                  "price": -114,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Max Clark",
+                  "price": -185,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Max Clark",
+                  "price": 141,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:38:23Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "DJ Herz",
+                  "price": -135,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "DJ Herz",
+                  "price": 105,
+                  "point": 3.5
+                },
+                {
+                  "name": "Over",
+                  "description": "River Ryan",
+                  "price": -105,
+                  "point": 2.5
+                },
+                {
+                  "name": "Under",
+                  "description": "River Ryan",
+                  "price": -123,
+                  "point": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:38:48Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "Daylen Lile",
+                  "price": -266,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Daylen Lile",
+                  "price": 195,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gleyber Torres",
+                  "price": -207,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Gleyber Torres",
+                  "price": 154,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "CJ Abrams",
+                  "price": -206,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "CJ Abrams",
+                  "price": 154,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "James Wood",
+                  "price": -205,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "James Wood",
+                  "price": 152,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kevin McGonigle",
+                  "price": -205,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Kevin McGonigle",
+                  "price": 153,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dillon Dingler",
+                  "price": -201,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dillon Dingler",
+                  "price": 150,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Max Clark",
+                  "price": -189,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Max Clark",
+                  "price": 141,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Riley Greene",
+                  "price": -186,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Riley Greene",
+                  "price": 139,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Crews",
+                  "price": -181,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dylan Crews",
+                  "price": 135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Hao-Yu Lee",
+                  "price": -163,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Hao-Yu Lee",
+                  "price": 123,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jorbit Vivas",
+                  "price": -155,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jorbit Vivas",
+                  "price": 116,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brady House",
+                  "price": -152,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Brady House",
+                  "price": 114,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Keibert Ruiz",
+                  "price": -146,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Keibert Ruiz",
+                  "price": 110,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Spencer Torkelson",
+                  "price": -141,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Spencer Torkelson",
+                  "price": 106,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Abimelec Ortiz",
+                  "price": -140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Abimelec Ortiz",
+                  "price": 105,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "John Peck",
+                  "price": -135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "John Peck",
+                  "price": 102,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ben Malgeri",
+                  "price": -134,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Ben Malgeri",
+                  "price": 101,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jacob Young",
+                  "price": -120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jacob Young",
+                  "price": -111,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:38:48Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "DJ Herz",
+                  "price": -142,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "DJ Herz",
+                  "price": 111,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:39:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "John Peck",
+                  "price": -134,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kevin McGonigle",
+                  "price": -240,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jorbit Vivas",
+                  "price": -180,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "James Wood",
+                  "price": -205,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Hao-Yu Lee",
+                  "price": -177,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jacob Young",
+                  "price": -121,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Spencer Torkelson",
+                  "price": -155,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Crews",
+                  "price": -182,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Keibert Ruiz",
+                  "price": -159,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "CJ Abrams",
+                  "price": -215,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Riley Greene",
+                  "price": -200,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Daylen Lile",
+                  "price": -275,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ben Malgeri",
+                  "price": -141,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Abimelec Ortiz",
+                  "price": -159,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dillon Dingler",
+                  "price": -230,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brady House",
+                  "price": -182,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Max Clark",
+                  "price": -200,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gleyber Torres",
+                  "price": -240,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "batter_home_runs",
+              "last_update": "2026-09-21T16:39:26Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "CJ Abrams",
+                  "price": 7000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Abimelec Ortiz",
+                  "price": 8000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Max Clark",
+                  "price": 20000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gleyber Torres",
+                  "price": 11000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Daylen Lile",
+                  "price": 6000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Crews",
+                  "price": 6000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jacob Young",
+                  "price": 80000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "James Wood",
+                  "price": 4000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Spencer Torkelson",
+                  "price": 5500,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Riley Greene",
+                  "price": 6600,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Hao-Yu Lee",
+                  "price": 9000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dillon Dingler",
+                  "price": 6600,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ben Malgeri",
+                  "price": 15000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kevin McGonigle",
+                  "price": 8000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Keibert Ruiz",
+                  "price": 16000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "John Peck",
+                  "price": 30000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brady House",
+                  "price": 14000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jorbit Vivas",
+                  "price": 20000,
+                  "point": 1.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Abimelec Ortiz",
+                  "price": 650,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Spencer Torkelson",
+                  "price": 475,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jacob Young",
+                  "price": 1500,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Hao-Yu Lee",
+                  "price": 650,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Daylen Lile",
+                  "price": 525,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "CJ Abrams",
+                  "price": 550,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brady House",
+                  "price": 800,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Riley Greene",
+                  "price": 550,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Keibert Ruiz",
+                  "price": 850,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "James Wood",
+                  "price": 420,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kevin McGonigle",
+                  "price": 650,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "John Peck",
+                  "price": 1200,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jorbit Vivas",
+                  "price": 950,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Crews",
+                  "price": 510,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ben Malgeri",
+                  "price": 750,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gleyber Torres",
+                  "price": 650,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dillon Dingler",
+                  "price": 525,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Max Clark",
+                  "price": 850,
+                  "point": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "markets": [
+            {
+              "key": "batter_hits",
+              "last_update": "2026-09-21T16:39:06Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "CJ Abrams",
+                  "price": -200,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "CJ Abrams",
+                  "price": 150,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jorbit Vivas",
+                  "price": -140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jorbit Vivas",
+                  "price": 105,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dylan Crews",
+                  "price": -185,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dylan Crews",
+                  "price": 135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Max Clark",
+                  "price": -185,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Max Clark",
+                  "price": 135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "James Wood",
+                  "price": -225,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "James Wood",
+                  "price": 165,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Jacob Young",
+                  "price": -135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Jacob Young",
+                  "price": 100,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Keibert Ruiz",
+                  "price": -155,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Keibert Ruiz",
+                  "price": 115,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Kevin McGonigle",
+                  "price": -200,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Kevin McGonigle",
+                  "price": 150,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Abimelec Ortiz",
+                  "price": -145,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Abimelec Ortiz",
+                  "price": 105,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Ben Malgeri",
+                  "price": -120,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Ben Malgeri",
+                  "price": -110,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Hao-Yu Lee",
+                  "price": -175,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Hao-Yu Lee",
+                  "price": 130,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Gleyber Torres",
+                  "price": -175,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Gleyber Torres",
+                  "price": 130,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Daylen Lile",
+                  "price": -210,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Daylen Lile",
+                  "price": 155,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Spencer Torkelson",
+                  "price": -135,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Spencer Torkelson",
+                  "price": 100,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Javier Baez",
+                  "price": -140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Javier Baez",
+                  "price": 105,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Dillon Dingler",
+                  "price": -175,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Dillon Dingler",
+                  "price": 130,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Riley Greene",
+                  "price": -190,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Riley Greene",
+                  "price": 140,
+                  "point": 0.5
+                },
+                {
+                  "name": "Over",
+                  "description": "Brady House",
+                  "price": -160,
+                  "point": 0.5
+                },
+                {
+                  "name": "Under",
+                  "description": "Brady House",
+                  "price": 120,
+                  "point": 0.5
+                }
+              ]
+            },
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:39:06Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "DJ Herz",
+                  "price": -135,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "DJ Herz",
+                  "price": 100,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "key": "pitcher_strikeouts",
+              "last_update": "2026-09-21T16:38:45Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "description": "DJ Herz",
+                  "price": -138,
+                  "point": 3.5
+                },
+                {
+                  "name": "Under",
+                  "description": "DJ Herz",
+                  "price": 100,
+                  "point": 3.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "match": "Minnesota Twins @ San Francisco Giants",
+      "lines": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-09-21T16:38:57Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:57Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota Twins",
+                  "price": -122
+                },
+                {
+                  "name": "San Francisco Giants",
+                  "price": 104
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:57Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -270,36 +3122,73 @@
           ]
         },
         {
-          "key": "bovada",
-          "title": "Bovada",
-          "last_update": "2026-09-20T23:41:01Z",
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-09-21T16:37:28Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:41:01Z",
+              "last_update": "2026-09-21T16:37:28Z",
               "outcomes": [
                 {
-                  "name": "Detroit Tigers",
-                  "price": -158
+                  "name": "Minnesota Twins",
+                  "price": -120
                 },
                 {
-                  "name": "Washington Nationals",
-                  "price": 132
+                  "name": "San Francisco Giants",
+                  "price": 102
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:41:01Z",
+              "last_update": "2026-09-21T16:37:28Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 100,
+                  "price": -117,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": -104,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-09-21T16:37:31Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:37:31Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota Twins",
+                  "price": -122
+                },
+                {
+                  "name": "San Francisco Giants",
+                  "price": 102
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:37:31Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
                   "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -120,
+                  "price": -115,
                   "point": 8.5
                 }
               ]
@@ -309,29 +3198,103 @@
         {
           "key": "lowvig",
           "title": "LowVig.ag",
-          "last_update": "2026-09-20T23:41:18Z",
+          "last_update": "2026-09-21T16:38:34Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:41:18Z",
+              "last_update": "2026-09-21T16:38:34Z",
               "outcomes": [
                 {
-                  "name": "Detroit Tigers",
-                  "price": -150
+                  "name": "Minnesota Twins",
+                  "price": -112
                 },
                 {
-                  "name": "Washington Nationals",
-                  "price": 136
+                  "name": "San Francisco Giants",
+                  "price": 102
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:41:18Z",
+              "last_update": "2026-09-21T16:38:34Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 103,
+                  "price": -116,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": 101,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-09-21T16:38:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota Twins",
+                  "price": -112
+                },
+                {
+                  "name": "San Francisco Giants",
+                  "price": 102
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -118,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": -102,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-09-21T16:38:57Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:57Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota Twins",
+                  "price": -121
+                },
+                {
+                  "name": "San Francisco Giants",
+                  "price": 101
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:57Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -102,
                   "point": 8.5
                 },
                 {
@@ -344,27 +3307,101 @@
           ]
         },
         {
-          "key": "betonlineag",
-          "title": "BetOnline.ag",
-          "last_update": "2026-09-20T23:40:40Z",
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-09-21T16:38:34Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-20T23:40:40Z",
+              "last_update": "2026-09-21T16:38:34Z",
               "outcomes": [
                 {
-                  "name": "Detroit Tigers",
-                  "price": -150
+                  "name": "Minnesota Twins",
+                  "price": -115
                 },
                 {
-                  "name": "Washington Nationals",
-                  "price": 136
+                  "name": "San Francisco Giants",
+                  "price": 105
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-20T23:40:40Z",
+              "last_update": "2026-09-21T16:38:34Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -120,
+                  "point": 8.0
+                },
+                {
+                  "name": "Under",
+                  "price": 100,
+                  "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-09-21T16:38:33Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:33Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota Twins",
+                  "price": -118
+                },
+                {
+                  "name": "San Francisco Giants",
+                  "price": -103
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:33Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -104,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -118,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-09-21T16:38:32Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-21T16:38:32Z",
+              "outcomes": [
+                {
+                  "name": "Minnesota Twins",
+                  "price": -120
+                },
+                {
+                  "name": "San Francisco Giants",
+                  "price": 100
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-21T16:38:32Z",
               "outcomes": [
                 {
                   "name": "Over",
