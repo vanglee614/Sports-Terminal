@@ -2,39 +2,717 @@
   "NBA": [],
   "MLB": [
     {
-      "match": "Minnesota Twins @ San Francisco Giants",
+      "match": "Tampa Bay Rays @ New York Yankees",
       "lines": [
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-09-22T00:22:15Z",
+          "last_update": "2026-09-22T15:11:38Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:22:15Z",
+              "last_update": "2026-09-22T15:11:38Z",
               "outcomes": [
                 {
-                  "name": "Minnesota Twins",
-                  "price": -126
+                  "name": "New York Yankees",
+                  "price": -134
                 },
                 {
-                  "name": "San Francisco Giants",
+                  "name": "Tampa Bay Rays",
+                  "price": 116
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 116,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -142,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-09-22T15:10:27Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:27Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -133
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 113
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:27Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -111,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-09-22T15:10:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:49Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -132
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 110
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:49Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-09-22T15:11:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:42Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -129
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 117
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:42Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-09-22T15:10:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:47Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -129
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 117
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:47Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -107,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -107,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-09-22T15:11:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:58Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -128
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 117
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-09-22T15:11:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:37Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -135
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 110
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-09-22T15:11:11Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:11Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -135
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 112
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:11Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -112,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -108,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-09-22T15:11:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "New York Yankees",
+                  "price": -134
+                },
+                {
+                  "name": "Tampa Bay Rays",
+                  "price": 112
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -113,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -125,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": []
+    },
+    {
+      "match": "Toronto Blue Jays @ Baltimore Orioles",
+      "lines": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-09-22T15:11:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -120
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 102
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 104,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -128,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-09-22T15:10:27Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:27Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -123
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 105
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:27Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -122,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": 100,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-09-22T15:10:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:49Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -123
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 103
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:49Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 105,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -125,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-09-22T15:10:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:47Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -117
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 106
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:47Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -116,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": 101,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-09-22T15:11:42Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:42Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -117
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 106
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:42Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -118,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -102,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-09-22T15:11:11Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:11Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -123
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 102
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:11Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -123,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": 102,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-09-22T15:11:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:37Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -120
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 100
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 105,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -125,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-09-22T15:11:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:58Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -118
+                },
+                {
+                  "name": "Toronto Blue Jays",
                   "price": 108
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:22:15Z",
+              "last_update": "2026-09-22T15:11:58Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 104,
+                  "price": -120,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": 100,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-09-22T15:11:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Baltimore Orioles",
+                  "price": -124
+                },
+                {
+                  "name": "Toronto Blue Jays",
+                  "price": 104
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -127,
+                  "point": 7.0
+                },
+                {
+                  "name": "Under",
+                  "price": -112,
+                  "point": 7.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": []
+    },
+    {
+      "match": "Washington Nationals @ Detroit Tigers",
+      "lines": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-09-22T15:11:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -158
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 134
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 100,
                   "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -128,
+                  "price": -122,
                   "point": 8.5
                 }
               ]
@@ -44,34 +722,34 @@
         {
           "key": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-09-22T00:21:56Z",
+          "last_update": "2026-09-22T15:10:27Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:56Z",
+              "last_update": "2026-09-22T15:10:27Z",
               "outcomes": [
                 {
-                  "name": "Minnesota Twins",
-                  "price": -123
+                  "name": "Detroit Tigers",
+                  "price": -154
                 },
                 {
-                  "name": "San Francisco Giants",
-                  "price": 105
+                  "name": "Washington Nationals",
+                  "price": 131
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:56Z",
+              "last_update": "2026-09-22T15:10:27Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -116,
+                  "price": -117,
                   "point": 8.0
                 },
                 {
                   "name": "Under",
-                  "price": -105,
+                  "price": -104,
                   "point": 8.0
                 }
               ]
@@ -81,25 +759,25 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-09-22T00:22:20Z",
+          "last_update": "2026-09-22T15:10:49Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:22:20Z",
+              "last_update": "2026-09-22T15:10:49Z",
               "outcomes": [
                 {
-                  "name": "Minnesota Twins",
-                  "price": -124
+                  "name": "Detroit Tigers",
+                  "price": -158
                 },
                 {
-                  "name": "San Francisco Giants",
-                  "price": 104
+                  "name": "Washington Nationals",
+                  "price": 132
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:22:20Z",
+              "last_update": "2026-09-22T15:10:49Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -118,35 +796,35 @@
         {
           "key": "lowvig",
           "title": "LowVig.ag",
-          "last_update": "2026-09-22T00:21:58Z",
+          "last_update": "2026-09-22T15:10:47Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:10:47Z",
               "outcomes": [
                 {
-                  "name": "Minnesota Twins",
-                  "price": -119
+                  "name": "Detroit Tigers",
+                  "price": -149
                 },
                 {
-                  "name": "San Francisco Giants",
-                  "price": 108
+                  "name": "Washington Nationals",
+                  "price": 135
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:10:47Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -107,
-                  "point": 8.0
+                  "price": 107,
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -107,
-                  "point": 8.0
+                  "price": -123,
+                  "point": 8.5
                 }
               ]
             }
@@ -155,35 +833,35 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-09-22T00:21:56Z",
+          "last_update": "2026-09-22T15:11:42Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:56Z",
+              "last_update": "2026-09-22T15:11:42Z",
               "outcomes": [
                 {
-                  "name": "Minnesota Twins",
-                  "price": -119
+                  "name": "Detroit Tigers",
+                  "price": -149
                 },
                 {
-                  "name": "San Francisco Giants",
-                  "price": 108
+                  "name": "Washington Nationals",
+                  "price": 135
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:56Z",
+              "last_update": "2026-09-22T15:11:42Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -110,
-                  "point": 8.0
+                  "price": 105,
+                  "point": 8.5
                 },
                 {
                   "name": "Under",
-                  "price": -110,
-                  "point": 8.0
+                  "price": -125,
+                  "point": 8.5
                 }
               ]
             }
@@ -192,108 +870,34 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-09-22T00:22:15Z",
+          "last_update": "2026-09-22T15:11:11Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:22:15Z",
+              "last_update": "2026-09-22T15:11:11Z",
               "outcomes": [
                 {
-                  "name": "Minnesota Twins",
-                  "price": -125
+                  "name": "Detroit Tigers",
+                  "price": -157
                 },
                 {
-                  "name": "San Francisco Giants",
-                  "price": 104
+                  "name": "Washington Nationals",
+                  "price": 130
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:22:15Z",
+              "last_update": "2026-09-22T15:11:11Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -113,
+                  "price": -118,
                   "point": 8.0
                 },
                 {
                   "name": "Under",
-                  "price": -106,
-                  "point": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betus",
-          "title": "BetUS",
-          "last_update": "2026-09-22T00:21:58Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-09-22T00:21:57Z",
-              "outcomes": [
-                {
-                  "name": "Minnesota Twins",
-                  "price": -118
-                },
-                {
-                  "name": "San Francisco Giants",
-                  "price": 108
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-09-22T00:21:57Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -110,
-                  "point": 8.0
-                },
-                {
-                  "name": "Under",
-                  "price": -110,
-                  "point": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betrivers",
-          "title": "BetRivers",
-          "last_update": "2026-09-22T00:22:17Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-09-22T00:22:17Z",
-              "outcomes": [
-                {
-                  "name": "Minnesota Twins",
-                  "price": -129
-                },
-                {
-                  "name": "San Francisco Giants",
-                  "price": 108
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-09-22T00:22:17Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -120,
-                  "point": 8.0
-                },
-                {
-                  "name": "Under",
-                  "price": -120,
+                  "price": -102,
                   "point": 8.0
                 }
               ]
@@ -303,73 +907,152 @@
         {
           "key": "betmgm",
           "title": "BetMGM",
-          "last_update": "2026-09-22T00:21:58Z",
+          "last_update": "2026-09-22T15:11:37Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:11:37Z",
               "outcomes": [
                 {
-                  "name": "Minnesota Twins",
-                  "price": -130
+                  "name": "Detroit Tigers",
+                  "price": -160
                 },
                 {
-                  "name": "San Francisco Giants",
-                  "price": 105
+                  "name": "Washington Nationals",
+                  "price": 135
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:11:37Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -110,
+                  "price": -118,
                   "point": 8.0
                 },
                 {
                   "name": "Under",
-                  "price": -110,
+                  "price": -102,
                   "point": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-09-22T15:11:58Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:58Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -146
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 131
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:58Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 105,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -125,
+                  "point": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-09-22T15:11:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Tigers",
+                  "price": -155
+                },
+                {
+                  "name": "Washington Nationals",
+                  "price": 128
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -106,
+                  "point": 8.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 8.5
                 }
               ]
             }
           ]
         }
       ],
-      "props": [
+      "props": []
+    },
+    {
+      "match": "Milwaukee Brewers @ Philadelphia Phillies",
+      "lines": [
         {
           "key": "fanduel",
           "title": "FanDuel",
+          "last_update": "2026-09-22T15:11:38Z",
           "markets": [
             {
-              "key": "pitcher_strikeouts",
-              "last_update": "2026-09-22T00:21:46Z",
+              "key": "h2h",
+              "last_update": "2026-09-22T15:11:38Z",
+              "outcomes": [
+                {
+                  "name": "Milwaukee Brewers",
+                  "price": 120
+                },
+                {
+                  "name": "Philadelphia Phillies",
+                  "price": -142
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:11:38Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "description": "Blade Tidwell",
-                  "price": -160,
-                  "point": 3.5
+                  "price": 104,
+                  "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "description": "Blade Tidwell",
-                  "price": 124,
-                  "point": 3.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Zebby Matthews",
-                  "price": -106,
-                  "point": 4.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Zebby Matthews",
-                  "price": -120,
-                  "point": 4.5
+                  "price": -128,
+                  "point": 7.5
                 }
               ]
             }
@@ -378,1097 +1061,35 @@
         {
           "key": "mybookieag",
           "title": "MyBookie.ag",
+          "last_update": "2026-09-22T15:10:27Z",
           "markets": [
             {
-              "key": "pitcher_strikeouts",
-              "last_update": "2026-09-22T00:21:32Z",
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:27Z",
               "outcomes": [
                 {
-                  "name": "Over",
-                  "description": "Zebby Matthews",
-                  "price": -114,
-                  "point": 4.5
+                  "name": "Milwaukee Brewers",
+                  "price": 118
                 },
                 {
-                  "name": "Under",
-                  "description": "Zebby Matthews",
-                  "price": -121,
-                  "point": 4.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Blade Tidwell",
-                  "price": -163,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Blade Tidwell",
-                  "price": 117,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "bovada",
-          "title": "Bovada",
-          "markets": [
-            {
-              "key": "pitcher_strikeouts",
-              "last_update": "2026-09-22T00:21:37Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Blade Tidwell",
-                  "price": -160,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Blade Tidwell",
-                  "price": 120,
-                  "point": 3.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Zebby Matthews",
-                  "price": -125,
-                  "point": 4.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Zebby Matthews",
-                  "price": -105,
-                  "point": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betonlineag",
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "batter_hits",
-              "last_update": "2026-09-22T00:21:25Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Royce Lewis",
-                  "price": -175,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Royce Lewis",
-                  "price": 135,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Jeffers",
-                  "price": -208,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Ryan Jeffers",
-                  "price": 158,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Emmanuel Rodriguez",
-                  "price": -141,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Emmanuel Rodriguez",
-                  "price": 109,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Christian Koss",
-                  "price": -161,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Christian Koss",
-                  "price": 124,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Kody Clemens",
-                  "price": -222,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Kody Clemens",
-                  "price": 166,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Josh Bell",
-                  "price": -227,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Josh Bell",
-                  "price": 170,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Gilbert",
-                  "price": -185,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Drew Gilbert",
-                  "price": 140,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Shay Whitcomb",
-                  "price": -169,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Shay Whitcomb",
-                  "price": 130,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Turner Hill",
-                  "price": -233,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Turner Hill",
-                  "price": 175,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Cavanaugh",
-                  "price": -145,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Drew Cavanaugh",
-                  "price": 111,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Walker Jenkins",
-                  "price": -213,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Walker Jenkins",
-                  "price": 162,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Jonah Cox",
-                  "price": -238,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Jonah Cox",
-                  "price": 178,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Brett Harris",
-                  "price": -152,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Brett Harris",
-                  "price": 117,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Scott Bandura",
-                  "price": -123,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Scott Bandura",
-                  "price": -104,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ben Ross",
-                  "price": -103,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Ben Ross",
-                  "price": -125,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Jung Hoo Lee",
-                  "price": 186,
-                  "point": 1.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Jung Hoo Lee",
-                  "price": -250,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Luke Keaschall",
-                  "price": 186,
-                  "point": 1.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Luke Keaschall",
-                  "price": -250,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Brooks Lee",
-                  "price": 190,
-                  "point": 1.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Brooks Lee",
-                  "price": -256,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Alan Roden",
-                  "price": -175,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Alan Roden",
-                  "price": 134,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Kreidler",
-                  "price": -135,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Ryan Kreidler",
-                  "price": 105,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Osleivis Basabe",
-                  "price": -149,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Osleivis Basabe",
-                  "price": 115,
-                  "point": 0.5
+                  "name": "Philadelphia Phillies",
+                  "price": -138
                 }
               ]
             },
             {
-              "key": "pitcher_strikeouts",
-              "last_update": "2026-09-22T00:21:25Z",
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:27Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "description": "Zebby Matthews",
-                  "price": -110,
-                  "point": 4.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Zebby Matthews",
-                  "price": -118,
-                  "point": 4.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Blade Tidwell",
-                  "price": -161,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Blade Tidwell",
-                  "price": 124,
-                  "point": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "draftkings",
-          "title": "DraftKings",
-          "markets": [
-            {
-              "key": "batter_hits",
-              "last_update": "2026-09-22T00:21:51Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Brooks Lee",
-                  "price": 192,
-                  "point": 1.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Brooks Lee",
-                  "price": -261,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Luke Keaschall",
-                  "price": -254,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Luke Keaschall",
-                  "price": 187,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Jonah Cox",
-                  "price": -227,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Jonah Cox",
-                  "price": 168,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Jeffers",
-                  "price": -219,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Ryan Jeffers",
-                  "price": 163,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Kody Clemens",
-                  "price": -218,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Kody Clemens",
-                  "price": 162,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Gilbert",
-                  "price": -175,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Drew Gilbert",
-                  "price": 131,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Alan Roden",
-                  "price": -169,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Alan Roden",
-                  "price": 127,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Osleivis Basabe",
-                  "price": -152,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Osleivis Basabe",
-                  "price": 114,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Christian Koss",
-                  "price": -151,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Christian Koss",
-                  "price": 113,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Cavanaugh",
-                  "price": -144,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Drew Cavanaugh",
-                  "price": 108,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Brett Harris",
-                  "price": -141,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Brett Harris",
-                  "price": 106,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Scott Bandura",
-                  "price": -134,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Scott Bandura",
-                  "price": 101,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Kreidler",
-                  "price": -131,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Ryan Kreidler",
-                  "price": -101,
-                  "point": 0.5
-                }
-              ]
-            },
-            {
-              "key": "pitcher_strikeouts",
-              "last_update": "2026-09-22T00:21:51Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Zebby Matthews",
-                  "price": -107,
-                  "point": 4.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Zebby Matthews",
                   "price": -119,
-                  "point": 4.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Blade Tidwell",
-                  "price": 132,
-                  "point": 4.5
+                  "point": 7.0
                 },
                 {
                   "name": "Under",
-                  "description": "Blade Tidwell",
-                  "price": -169,
-                  "point": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betrivers",
-          "title": "BetRivers",
-          "markets": [
-            {
-              "key": "batter_hits",
-              "last_update": "2026-09-22T00:22:14Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Alan Roden",
-                  "price": -182,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Kreidler",
-                  "price": -141,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Brooks Lee",
-                  "price": -250,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Emmanuel Rodriguez",
-                  "price": -141,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Jonah Cox",
-                  "price": -210,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Jeffers",
-                  "price": -215,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Cavanaugh",
-                  "price": -150,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Kody Clemens",
-                  "price": -215,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Walker Jenkins",
-                  "price": -240,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Luke Keaschall",
-                  "price": -250,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Gilbert",
-                  "price": -180,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Christian Koss",
-                  "price": -165,
-                  "point": 0.5
-                }
-              ]
-            },
-            {
-              "key": "batter_home_runs",
-              "last_update": "2026-09-22T00:22:14Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Alan Roden",
-                  "price": 15000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Christian Koss",
-                  "price": 16000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Brooks Lee",
-                  "price": 9000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Kreidler",
-                  "price": 18000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Luke Keaschall",
-                  "price": 25000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Gilbert",
-                  "price": 13000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Kody Clemens",
-                  "price": 4500,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Walker Jenkins",
-                  "price": 11000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Emmanuel Rodriguez",
-                  "price": 10000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Jeffers",
-                  "price": 7000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Jonah Cox",
-                  "price": 16000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Cavanaugh",
-                  "price": 20000,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Kreidler",
-                  "price": 1000,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Alan Roden",
-                  "price": 850,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Kody Clemens",
-                  "price": 450,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Jonah Cox",
-                  "price": 850,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Emmanuel Rodriguez",
-                  "price": 650,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Christian Koss",
-                  "price": 900,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Brooks Lee",
-                  "price": 650,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Jeffers",
-                  "price": 550,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Walker Jenkins",
-                  "price": 700,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Gilbert",
-                  "price": 800,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Luke Keaschall",
-                  "price": 1000,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Cavanaugh",
-                  "price": 850,
-                  "point": 0.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betmgm",
-          "title": "BetMGM",
-          "markets": [
-            {
-              "key": "batter_hits",
-              "last_update": "2026-09-22T00:21:33Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Brooks Lee",
-                  "price": -275,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Brooks Lee",
-                  "price": 195,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Jonah Cox",
-                  "price": -250,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Jonah Cox",
-                  "price": 180,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Emmanuel Rodriguez",
-                  "price": -145,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Emmanuel Rodriguez",
-                  "price": 105,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Brett Harris",
-                  "price": -160,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Brett Harris",
-                  "price": 120,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Gilbert",
-                  "price": -200,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Drew Gilbert",
-                  "price": 145,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Drew Cavanaugh",
-                  "price": -150,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Drew Cavanaugh",
-                  "price": 110,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Walker Jenkins",
-                  "price": -210,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Walker Jenkins",
-                  "price": 155,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Christian Koss",
-                  "price": -165,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Christian Koss",
-                  "price": 125,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Kody Clemens",
-                  "price": -225,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Kody Clemens",
-                  "price": 165,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Jeffers",
-                  "price": -210,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Ryan Jeffers",
-                  "price": 150,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Luke Keaschall",
-                  "price": 180,
-                  "point": 1.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Luke Keaschall",
-                  "price": -250,
-                  "point": 1.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Scott Bandura",
-                  "price": -115,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Scott Bandura",
-                  "price": -115,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Ryan Kreidler",
-                  "price": -125,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Ryan Kreidler",
-                  "price": -105,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Alan Roden",
-                  "price": -185,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Alan Roden",
-                  "price": 135,
-                  "point": 0.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Osleivis Basabe",
-                  "price": -160,
-                  "point": 0.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Osleivis Basabe",
-                  "price": 120,
-                  "point": 0.5
-                }
-              ]
-            },
-            {
-              "key": "pitcher_strikeouts",
-              "last_update": "2026-09-22T00:21:33Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "description": "Blade Tidwell",
-                  "price": -155,
-                  "point": 3.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Blade Tidwell",
-                  "price": 115,
-                  "point": 3.5
-                },
-                {
-                  "name": "Over",
-                  "description": "Zebby Matthews",
-                  "price": -110,
-                  "point": 4.5
-                },
-                {
-                  "name": "Under",
-                  "description": "Zebby Matthews",
-                  "price": -120,
-                  "point": 4.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "match": "Tampa Bay Rays @ New York Yankees",
-      "lines": [
-        {
-          "key": "fanduel",
-          "title": "FanDuel",
-          "last_update": "2026-09-22T00:22:15Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-09-22T00:22:15Z",
-              "outcomes": [
-                {
-                  "name": "New York Yankees",
-                  "price": -132
-                },
-                {
-                  "name": "Tampa Bay Rays",
-                  "price": 112
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-09-22T00:22:15Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": 116,
-                  "point": 7.5
-                },
-                {
-                  "name": "Under",
-                  "price": -142,
-                  "point": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "bovada",
-          "title": "Bovada",
-          "last_update": "2026-09-22T00:22:20Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-09-22T00:22:20Z",
-              "outcomes": [
-                {
-                  "name": "New York Yankees",
-                  "price": -133
-                },
-                {
-                  "name": "Tampa Bay Rays",
-                  "price": 111
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-09-22T00:22:20Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -140,
-                  "point": 6.5
-                },
-                {
-                  "name": "Under",
-                  "price": 120,
-                  "point": 6.5
+                  "price": -102,
+                  "point": 7.0
                 }
               ]
             }
@@ -1477,35 +1098,35 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-09-22T00:21:56Z",
+          "last_update": "2026-09-22T15:11:42Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:56Z",
+              "last_update": "2026-09-22T15:11:42Z",
               "outcomes": [
                 {
-                  "name": "New York Yankees",
-                  "price": -125
+                  "name": "Milwaukee Brewers",
+                  "price": 120
                 },
                 {
-                  "name": "Tampa Bay Rays",
-                  "price": 113
+                  "name": "Philadelphia Phillies",
+                  "price": -132
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:56Z",
+              "last_update": "2026-09-22T15:11:42Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -105,
-                  "point": 7.0
+                  "price": 110,
+                  "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -115,
-                  "point": 7.0
+                  "price": -130,
+                  "point": 7.5
                 }
               ]
             }
@@ -1514,34 +1135,71 @@
         {
           "key": "lowvig",
           "title": "LowVig.ag",
-          "last_update": "2026-09-22T00:21:58Z",
+          "last_update": "2026-09-22T15:10:47Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:10:47Z",
               "outcomes": [
                 {
-                  "name": "New York Yankees",
-                  "price": -125
+                  "name": "Milwaukee Brewers",
+                  "price": 120
                 },
                 {
-                  "name": "Tampa Bay Rays",
-                  "price": 113
+                  "name": "Philadelphia Phillies",
+                  "price": -132
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:10:47Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -102,
+                  "price": 112,
+                  "point": 7.5
+                },
+                {
+                  "name": "Under",
+                  "price": -128,
+                  "point": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-09-22T15:10:49Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-09-22T15:10:49Z",
+              "outcomes": [
+                {
+                  "name": "Milwaukee Brewers",
+                  "price": 117
+                },
+                {
+                  "name": "Philadelphia Phillies",
+                  "price": -140
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-09-22T15:10:49Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -120,
                   "point": 7.0
                 },
                 {
                   "name": "Under",
-                  "price": -113,
+                  "price": 100,
                   "point": 7.0
                 }
               ]
@@ -1551,34 +1209,34 @@
         {
           "key": "betus",
           "title": "BetUS",
-          "last_update": "2026-09-22T00:21:58Z",
+          "last_update": "2026-09-22T15:11:58Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:57Z",
+              "last_update": "2026-09-22T15:11:58Z",
               "outcomes": [
                 {
-                  "name": "New York Yankees",
-                  "price": -125
+                  "name": "Milwaukee Brewers",
+                  "price": 120
                 },
                 {
-                  "name": "Tampa Bay Rays",
-                  "price": 114
+                  "name": "Philadelphia Phillies",
+                  "price": -132
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:57Z",
+              "last_update": "2026-09-22T15:11:58Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -105,
+                  "price": -120,
                   "point": 7.0
                 },
                 {
                   "name": "Under",
-                  "price": -115,
+                  "price": 100,
                   "point": 7.0
                 }
               ]
@@ -1588,35 +1246,35 @@
         {
           "key": "betmgm",
           "title": "BetMGM",
-          "last_update": "2026-09-22T00:21:58Z",
+          "last_update": "2026-09-22T15:11:37Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:11:37Z",
               "outcomes": [
                 {
-                  "name": "New York Yankees",
-                  "price": -130
+                  "name": "Milwaukee Brewers",
+                  "price": 115
                 },
                 {
-                  "name": "Tampa Bay Rays",
-                  "price": 105
+                  "name": "Philadelphia Phillies",
+                  "price": -140
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:21:58Z",
+              "last_update": "2026-09-22T15:11:37Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -115,
-                  "point": 7.0
+                  "price": 105,
+                  "point": 7.5
                 },
                 {
                   "name": "Under",
-                  "price": -105,
-                  "point": 7.0
+                  "price": -125,
+                  "point": 7.5
                 }
               ]
             }
@@ -1625,34 +1283,34 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-09-22T00:22:15Z",
+          "last_update": "2026-09-22T15:11:11Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:22:15Z",
+              "last_update": "2026-09-22T15:11:11Z",
               "outcomes": [
                 {
-                  "name": "New York Yankees",
-                  "price": -131
+                  "name": "Milwaukee Brewers",
+                  "price": 114
                 },
                 {
-                  "name": "Tampa Bay Rays",
-                  "price": 109
+                  "name": "Philadelphia Phillies",
+                  "price": -137
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:22:15Z",
+              "last_update": "2026-09-22T15:11:11Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -107,
+                  "price": -122,
                   "point": 7.0
                 },
                 {
                   "name": "Under",
-                  "price": -112,
+                  "price": 102,
                   "point": 7.0
                 }
               ]
@@ -1662,35 +1320,35 @@
         {
           "key": "betrivers",
           "title": "BetRivers",
-          "last_update": "2026-09-22T00:22:17Z",
+          "last_update": "2026-09-22T15:11:38Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-09-22T00:22:17Z",
+              "last_update": "2026-09-22T15:11:38Z",
               "outcomes": [
                 {
-                  "name": "New York Yankees",
-                  "price": -130
+                  "name": "Milwaukee Brewers",
+                  "price": 120
                 },
                 {
-                  "name": "Tampa Bay Rays",
-                  "price": 110
+                  "name": "Philadelphia Phillies",
+                  "price": -143
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-09-22T00:22:17Z",
+              "last_update": "2026-09-22T15:11:38Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 110,
-                  "point": 7.5
+                  "price": -127,
+                  "point": 7.0
                 },
                 {
                   "name": "Under",
-                  "price": -134,
-                  "point": 7.5
+                  "price": -112,
+                  "point": 7.0
                 }
               ]
             }
