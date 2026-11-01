@@ -1,5 +1,345 @@
 {
   "NBA": [],
   "MLB": [],
-  "NHL": []
+  "NHL": [
+    {
+      "match": "Calgary Flames @ Colorado Avalanche",
+      "lines": [
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-11-01T00:32:04Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:32:04Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 300
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -380
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:32:04Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-11-01T00:31:44Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:31:43Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 318
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -380
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:31:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -106,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-11-01T00:32:06Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:32:06Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 318
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -380
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:32:06Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -106,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-11-01T00:32:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 320
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -420
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -114,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -106,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-11-01T00:32:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 360
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -455
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -112,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -112,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-11-01T00:32:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 305
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -380
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -115,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -105,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-11-01T00:32:05Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 340
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -450
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:32:05Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-11-01T00:30:16Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:30:16Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 321
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -440
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:30:16Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -112,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -109,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-11-01T00:31:47Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-01T00:31:47Z",
+              "outcomes": [
+                {
+                  "name": "Calgary Flames",
+                  "price": 310
+                },
+                {
+                  "name": "Colorado Avalanche",
+                  "price": -415
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-01T00:31:47Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -117,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -103,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": []
+    }
+  ]
 }
