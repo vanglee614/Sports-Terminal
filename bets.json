@@ -1,5 +1,1250 @@
 {
-  "NBA": [],
+  "NBA": [
+    {
+      "match": "Miami Heat @ New York Knicks",
+      "lines": [
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 140
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": -166
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -113,
+                  "point": 222.5
+                },
+                {
+                  "name": "Under",
+                  "price": -107,
+                  "point": 222.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-11-27T03:51:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 140
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": -166
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 223.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-11-27T03:51:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 155
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": -190
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -114,
+                  "point": 223.5
+                },
+                {
+                  "name": "Under",
+                  "price": -108,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 145
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": -175
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -118,
+                  "point": 222.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 222.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-11-27T03:51:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 140
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": -165
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 222.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 222.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 142
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": -175
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 223.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 223.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-11-27T03:51:15Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -102,
+                  "point": 223.5
+                },
+                {
+                  "name": "Under",
+                  "price": -113,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
+                  "point": 223.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Miami Heat",
+                  "price": 142
+                },
+                {
+                  "name": "New York Knicks",
+                  "price": -165
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
+                  "point": 223.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 223.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": []
+    },
+    {
+      "match": "Brooklyn Nets @ Toronto Raptors",
+      "lines": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-11-27T03:51:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Brooklyn Nets",
+                  "price": 250
+                },
+                {
+                  "name": "Toronto Raptors",
+                  "price": -310
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Brooklyn Nets",
+                  "price": 244
+                },
+                {
+                  "name": "Toronto Raptors",
+                  "price": -319
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 220.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 220.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Brooklyn Nets",
+                  "price": 268
+                },
+                {
+                  "name": "Toronto Raptors",
+                  "price": -333
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -115,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -105,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-11-27T03:51:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Brooklyn Nets",
+                  "price": 260
+                },
+                {
+                  "name": "Toronto Raptors",
+                  "price": -335
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -107,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": -117,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-11-27T03:51:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Brooklyn Nets",
+                  "price": 270
+                },
+                {
+                  "name": "Toronto Raptors",
+                  "price": -340
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 220.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 220.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-11-27T03:51:15Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -113,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -102,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -115,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -105,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Brooklyn Nets",
+                  "price": 260
+                },
+                {
+                  "name": "Toronto Raptors",
+                  "price": -325
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Brooklyn Nets",
+                  "price": 260
+                },
+                {
+                  "name": "Toronto Raptors",
+                  "price": -320
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -115,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -105,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": []
+    },
+    {
+      "match": "Milwaukee Bucks @ Detroit Pistons",
+      "lines": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-11-27T03:51:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": -400
+                },
+                {
+                  "name": "Milwaukee Bucks",
+                  "price": 315
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": -410
+                },
+                {
+                  "name": "Milwaukee Bucks",
+                  "price": 300
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": -410
+                },
+                {
+                  "name": "Milwaukee Bucks",
+                  "price": 322
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -114,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -106,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-11-27T03:51:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": -420
+                },
+                {
+                  "name": "Milwaukee Bucks",
+                  "price": 300
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -108,
+                  "point": 220.5
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 220.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-11-27T03:51:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": -390
+                },
+                {
+                  "name": "Milwaukee Bucks",
+                  "price": 295
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 219.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 219.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-11-27T03:51:15Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -102,
+                  "point": 219.0
+                },
+                {
+                  "name": "Under",
+                  "price": -113,
+                  "point": 219.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
+                  "point": 219.0
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 219.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": -400
+                },
+                {
+                  "name": "Milwaukee Bucks",
+                  "price": 310
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 219.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 219.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Detroit Pistons",
+                  "price": -410
+                },
+                {
+                  "name": "Milwaukee Bucks",
+                  "price": 325
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -105,
+                  "point": 219.0
+                },
+                {
+                  "name": "Under",
+                  "price": -115,
+                  "point": 219.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": []
+    },
+    {
+      "match": "Philadelphia 76ers @ Indiana Pacers",
+      "lines": [
+        {
+          "key": "fanduel",
+          "title": "FanDuel",
+          "last_update": "2026-11-27T03:51:38Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Indiana Pacers",
+                  "price": 134
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": -158
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:38Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 232.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 232.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Indiana Pacers",
+                  "price": 130
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": -155
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:01Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -106,
+                  "point": 232.5
+                },
+                {
+                  "name": "Under",
+                  "price": -114,
+                  "point": 232.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "BetRivers",
+          "last_update": "2026-11-27T03:51:14Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Indiana Pacers",
+                  "price": 133
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": -167
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:14Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": 105,
+                  "point": 234.5
+                },
+                {
+                  "name": "Under",
+                  "price": -129,
+                  "point": 234.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betmgm",
+          "title": "BetMGM",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Indiana Pacers",
+                  "price": 135
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": -160
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 232.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 232.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "bovada",
+          "title": "Bovada",
+          "last_update": "2026-11-27T03:51:43Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Indiana Pacers",
+                  "price": 135
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": -160
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:43Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 232.0
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 232.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Indiana Pacers",
+                  "price": 122
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": -150
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -110,
+                  "point": 232.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 232.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-11-27T03:51:15Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:15Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -113,
+                  "point": 231.5
+                },
+                {
+                  "name": "Under",
+                  "price": -102,
+                  "point": 231.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-11-27T03:51:37Z",
+          "markets": [
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:51:37Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -115,
+                  "point": 231.5
+                },
+                {
+                  "name": "Under",
+                  "price": -105,
+                  "point": 231.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betus",
+          "title": "BetUS",
+          "last_update": "2026-11-27T03:52:02Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Indiana Pacers",
+                  "price": 138
+                },
+                {
+                  "name": "Philadelphia 76ers",
+                  "price": -160
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:02Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -115,
+                  "point": 231.5
+                },
+                {
+                  "name": "Under",
+                  "price": -105,
+                  "point": 231.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "props": []
+    }
+  ],
   "MLB": [],
   "NHL": [
     {
@@ -8,25 +1253,25 @@
         {
           "key": "betrivers",
           "title": "BetRivers",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:07Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -175
+                  "price": -162
                 },
                 {
                   "name": "Toronto Maple Leafs",
-                  "price": 143
+                  "price": 135
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -45,25 +1290,25 @@
         {
           "key": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-11-26T19:52:10Z",
+          "last_update": "2026-11-27T03:52:08Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:10Z",
+              "last_update": "2026-11-27T03:52:08Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -166
+                  "price": -162
                 },
                 {
                   "name": "Toronto Maple Leafs",
-                  "price": 135
+                  "price": 131
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:10Z",
+              "last_update": "2026-11-27T03:52:08Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -82,25 +1327,25 @@
         {
           "key": "lowvig",
           "title": "LowVig.ag",
-          "last_update": "2026-11-26T19:52:33Z",
+          "last_update": "2026-11-27T03:51:19Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -160
+                  "price": -150
                 },
                 {
                   "name": "Toronto Maple Leafs",
-                  "price": 141
+                  "price": 132
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -119,25 +1364,25 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-11-26T19:53:20Z",
+          "last_update": "2026-11-27T03:50:55Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -160
+                  "price": -150
                 },
                 {
                   "name": "Toronto Maple Leafs",
-                  "price": 141
+                  "price": 132
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -156,25 +1401,25 @@
         {
           "key": "betus",
           "title": "BetUS",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:05Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -160
+                  "price": -150
                 },
                 {
                   "name": "Toronto Maple Leafs",
-                  "price": 138
+                  "price": 129
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -193,15 +1438,15 @@
         {
           "key": "betmgm",
           "title": "BetMGM",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:06Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -165
+                  "price": -160
                 },
                 {
                   "name": "Toronto Maple Leafs",
@@ -211,7 +1456,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -230,34 +1475,34 @@
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-11-26T19:53:25Z",
+          "last_update": "2026-11-27T03:51:40Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -160
+                  "price": -156
                 },
                 {
                   "name": "Toronto Maple Leafs",
-                  "price": 132
+                  "price": 130
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -114,
+                  "price": -110,
                   "point": 6.5
                 },
                 {
                   "name": "Under",
-                  "price": -106,
+                  "price": -110,
                   "point": 6.5
                 }
               ]
@@ -267,11 +1512,11 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-11-26T19:52:54Z",
+          "last_update": "2026-11-27T03:51:17Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
@@ -285,7 +1530,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -304,25 +1549,25 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-11-26T19:52:36Z",
+          "last_update": "2026-11-27T03:51:46Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Boston Bruins",
-                  "price": -170
+                  "price": -155
                 },
                 {
                   "name": "Toronto Maple Leafs",
-                  "price": 145
+                  "price": 133
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -347,11 +1592,11 @@
         {
           "key": "betrivers",
           "title": "BetRivers",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:07Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
@@ -365,11 +1610,11 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 105,
+                  "price": 104,
                   "point": 6.5
                 },
                 {
@@ -384,34 +1629,34 @@
         {
           "key": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-11-26T19:52:10Z",
+          "last_update": "2026-11-27T03:52:08Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:10Z",
+              "last_update": "2026-11-27T03:52:08Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
-                  "price": 214
+                  "price": 218
                 },
                 {
                   "name": "New Jersey Devils",
-                  "price": -270
+                  "price": -280
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:10Z",
+              "last_update": "2026-11-27T03:52:08Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -119,
+                  "price": -120,
                   "point": 6.0
                 },
                 {
                   "name": "Under",
-                  "price": -103,
+                  "price": -102,
                   "point": 6.0
                 }
               ]
@@ -421,25 +1666,25 @@
         {
           "key": "lowvig",
           "title": "LowVig.ag",
-          "last_update": "2026-11-26T19:52:33Z",
+          "last_update": "2026-11-27T03:51:19Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
-                  "price": 216
+                  "price": 244
                 },
                 {
                   "name": "New Jersey Devils",
-                  "price": -250
+                  "price": -285
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -458,25 +1703,25 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-11-26T19:53:20Z",
+          "last_update": "2026-11-27T03:50:55Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
-                  "price": 216
+                  "price": 244
                 },
                 {
                   "name": "New Jersey Devils",
-                  "price": -250
+                  "price": -285
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -495,25 +1740,25 @@
         {
           "key": "betus",
           "title": "BetUS",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:05Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
-                  "price": 210
+                  "price": 238
                 },
                 {
                   "name": "New Jersey Devils",
-                  "price": -250
+                  "price": -285
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -532,29 +1777,29 @@
         {
           "key": "betmgm",
           "title": "BetMGM",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:06Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
-                  "price": 220
+                  "price": 230
                 },
                 {
                   "name": "New Jersey Devils",
-                  "price": -275
+                  "price": -295
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -125,
+                  "price": -130,
                   "point": 6.0
                 },
                 {
@@ -569,34 +1814,34 @@
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-11-26T19:53:25Z",
+          "last_update": "2026-11-27T03:51:40Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
-                  "price": 215
+                  "price": 220
                 },
                 {
                   "name": "New Jersey Devils",
-                  "price": -265
+                  "price": -275
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": 106,
+                  "price": 104,
                   "point": 6.5
                 },
                 {
                   "name": "Under",
-                  "price": -130,
+                  "price": -128,
                   "point": 6.5
                 }
               ]
@@ -606,25 +1851,25 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-11-26T19:52:54Z",
+          "last_update": "2026-11-27T03:51:17Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
-                  "price": 215
+                  "price": 230
                 },
                 {
                   "name": "New Jersey Devils",
-                  "price": -265
+                  "price": -285
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -643,11 +1888,11 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-11-26T19:52:36Z",
+          "last_update": "2026-11-27T03:51:46Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Calgary Flames",
@@ -661,7 +1906,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -686,66 +1931,29 @@
         {
           "key": "betrivers",
           "title": "BetRivers",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:07Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
-                  "price": -109
+                  "price": -112
                 },
                 {
                   "name": "Utah Mammoth",
-                  "price": -109
+                  "price": -107
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Over",
                   "price": -114,
-                  "point": 6.5
-                },
-                {
-                  "name": "Under",
-                  "price": -109,
-                  "point": 6.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-11-26T19:52:10Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "last_update": "2026-11-26T19:52:10Z",
-              "outcomes": [
-                {
-                  "name": "Nashville Predators",
-                  "price": -106
-                },
-                {
-                  "name": "Utah Mammoth",
-                  "price": -115
-                }
-              ]
-            },
-            {
-              "key": "totals",
-              "last_update": "2026-11-26T19:52:10Z",
-              "outcomes": [
-                {
-                  "name": "Over",
-                  "price": -113,
                   "point": 6.5
                 },
                 {
@@ -758,13 +1966,50 @@
           ]
         },
         {
-          "key": "lowvig",
-          "title": "LowVig.ag",
-          "last_update": "2026-11-26T19:52:33Z",
+          "key": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-11-27T03:52:08Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:52:08Z",
+              "outcomes": [
+                {
+                  "name": "Nashville Predators",
+                  "price": -104
+                },
+                {
+                  "name": "Utah Mammoth",
+                  "price": -118
+                }
+              ]
+            },
+            {
+              "key": "totals",
+              "last_update": "2026-11-27T03:52:08Z",
+              "outcomes": [
+                {
+                  "name": "Over",
+                  "price": -111,
+                  "point": 6.5
+                },
+                {
+                  "name": "Under",
+                  "price": -110,
+                  "point": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "lowvig",
+          "title": "LowVig.ag",
+          "last_update": "2026-11-27T03:51:19Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
@@ -778,7 +2023,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -797,11 +2042,11 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-11-26T19:53:20Z",
+          "last_update": "2026-11-27T03:50:55Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
@@ -815,7 +2060,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -834,11 +2079,11 @@
         {
           "key": "betus",
           "title": "BetUS",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:05Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
@@ -852,7 +2097,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -871,25 +2116,25 @@
         {
           "key": "betmgm",
           "title": "BetMGM",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:06Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
-                  "price": -105
+                  "price": -102
                 },
                 {
                   "name": "Utah Mammoth",
-                  "price": -115
+                  "price": -118
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -908,11 +2153,11 @@
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-11-26T19:53:25Z",
+          "last_update": "2026-11-27T03:51:40Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
@@ -926,16 +2171,16 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -110,
+                  "price": -106,
                   "point": 6.5
                 },
                 {
                   "name": "Under",
-                  "price": -110,
+                  "price": -114,
                   "point": 6.5
                 }
               ]
@@ -945,34 +2190,34 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-11-26T19:52:54Z",
+          "last_update": "2026-11-27T03:51:17Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
-                  "price": -108
+                  "price": -102
                 },
                 {
                   "name": "Utah Mammoth",
-                  "price": -112
+                  "price": -118
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -112,
+                  "price": -108,
                   "point": 6.5
                 },
                 {
                   "name": "Under",
-                  "price": -108,
+                  "price": -112,
                   "point": 6.5
                 }
               ]
@@ -982,34 +2227,34 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-11-26T19:52:36Z",
+          "last_update": "2026-11-27T03:51:46Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Nashville Predators",
-                  "price": -105
+                  "price": -103
                 },
                 {
                   "name": "Utah Mammoth",
-                  "price": -115
+                  "price": -117
                 }
               ]
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -112,
+                  "price": -110,
                   "point": 6.5
                 },
                 {
                   "name": "Under",
-                  "price": -108,
+                  "price": -110,
                   "point": 6.5
                 }
               ]
@@ -1025,11 +2270,11 @@
         {
           "key": "betrivers",
           "title": "BetRivers",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:07Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1043,16 +2288,16 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:07Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -124,
+                  "price": -127,
                   "point": 5.5
                 },
                 {
                   "name": "Under",
-                  "price": 100,
+                  "price": 102,
                   "point": 5.5
                 }
               ]
@@ -1062,11 +2307,11 @@
         {
           "key": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-11-26T19:52:10Z",
+          "last_update": "2026-11-27T03:52:08Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:10Z",
+              "last_update": "2026-11-27T03:52:08Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1080,7 +2325,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:10Z",
+              "last_update": "2026-11-27T03:52:08Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -1099,11 +2344,11 @@
         {
           "key": "lowvig",
           "title": "LowVig.ag",
-          "last_update": "2026-11-26T19:52:33Z",
+          "last_update": "2026-11-27T03:51:19Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1117,7 +2362,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:33Z",
+              "last_update": "2026-11-27T03:51:19Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -1136,11 +2381,11 @@
         {
           "key": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-11-26T19:53:20Z",
+          "last_update": "2026-11-27T03:50:55Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1154,7 +2399,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:20Z",
+              "last_update": "2026-11-27T03:50:55Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -1173,11 +2418,11 @@
         {
           "key": "betus",
           "title": "BetUS",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:05Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1191,7 +2436,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -1210,11 +2455,11 @@
         {
           "key": "betmgm",
           "title": "BetMGM",
-          "last_update": "2026-11-26T19:52:32Z",
+          "last_update": "2026-11-27T03:52:06Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1228,16 +2473,16 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:32Z",
+              "last_update": "2026-11-27T03:52:05Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -118,
+                  "price": -120,
                   "point": 5.5
                 },
                 {
                   "name": "Under",
-                  "price": -102,
+                  "price": 100,
                   "point": 5.5
                 }
               ]
@@ -1247,11 +2492,11 @@
         {
           "key": "fanduel",
           "title": "FanDuel",
-          "last_update": "2026-11-26T19:53:25Z",
+          "last_update": "2026-11-27T03:51:40Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1265,16 +2510,16 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:53:24Z",
+              "last_update": "2026-11-27T03:51:40Z",
               "outcomes": [
                 {
                   "name": "Over",
-                  "price": -115,
+                  "price": -118,
                   "point": 5.5
                 },
                 {
                   "name": "Under",
-                  "price": -105,
+                  "price": -104,
                   "point": 5.5
                 }
               ]
@@ -1284,11 +2529,11 @@
         {
           "key": "draftkings",
           "title": "DraftKings",
-          "last_update": "2026-11-26T19:52:54Z",
+          "last_update": "2026-11-27T03:51:17Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1302,7 +2547,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:54Z",
+              "last_update": "2026-11-27T03:51:17Z",
               "outcomes": [
                 {
                   "name": "Over",
@@ -1321,11 +2566,11 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-11-26T19:52:36Z",
+          "last_update": "2026-11-27T03:51:46Z",
           "markets": [
             {
               "key": "h2h",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Dallas Stars",
@@ -1339,7 +2584,7 @@
             },
             {
               "key": "totals",
-              "last_update": "2026-11-26T19:52:36Z",
+              "last_update": "2026-11-27T03:51:45Z",
               "outcomes": [
                 {
                   "name": "Over",
